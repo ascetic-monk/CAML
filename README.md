@@ -1,8 +1,7 @@
 # Context-Aware Mutual Learning for Semi-Supervised Human Activity Recognition Using Wearable Sensors
 
+![image](https://user-images.githubusercontent.com/56111463/198065753-0bcc7cb0-2a03-4de3-a1fc-4746f02d7f04.png)
 
-
-![image-20221026203101604](C:\Users\84397\AppData\Roaming\Typora\typora-user-images\image-20221026203101604.png)
 
 
 
