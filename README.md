@@ -1,9 +1,8 @@
 # Context-Aware Mutual Learning for Semi-Supervised Human Activity Recognition Using Wearable Sensors
 
-![image](https://user-images.githubusercontent.com/56111463/198065753-0bcc7cb0-2a03-4de3-a1fc-4746f02d7f04.png)
-
 Pytorch implement of "Context-Aware Mutual Learning for Semi-Supervised Human Activity Recognition Using Wearable Sensors" in Expert Systems with Applications (ESWA) 2023。
 
+![image](https://user-images.githubusercontent.com/56111463/198065753-0bcc7cb0-2a03-4de3-a1fc-4746f02d7f04.png)
 
 ## Introduction 
 
